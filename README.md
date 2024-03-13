@@ -14,7 +14,7 @@
   <a href="mailto:baharerol.79@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="baharerol.79@gmail.com" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/baharerol" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/baharerol" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/baharerol" height="30" width="40" />
   </a>
 </p>
