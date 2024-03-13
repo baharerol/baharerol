@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **mobile application development with React Native.**
 
-- 📫 How to reach me **baharerol.79@gmail.com**
+- 🌱 I also deeply interested in **enhancing my skills in .NET technologies.**
 
-- I also deeply interested in **enhancing my skills in .NET technologies**
+- 📫 How to reach me **baharerol.79@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baharerol&show_icons=true&locale=en" alt="baharerol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baharerol&" alt="baharerol" /></p>
-
- 
