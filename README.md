@@ -3,11 +3,11 @@
 
 <h3 align="left">What I am doing now:</h3>
 <p align="left"> 
-  🌱 I’m currently learning mobile application development with React Native. <br>
+  🕒 I’m currently learning mobile application development with React Native. <br>
   🌱 I also deeply interested in enhancing my skills in .NET technologies.
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📩 Connect with me:</h3>
 <p align="left">
   <a href="mailto:baharerol.79@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="baharerol.79@gmail.com" height="30" width="30" />
@@ -17,8 +17,7 @@
   </a>
 </p>
 
-
-<h3 align="left">My Priority Languages and Tools:</h3>
+<h3 align="left">🔧 My Priority Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -29,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/>
 </p>
 
-<h3 align="left">My Other Languages and Tools:</h3>
+<h3 align="left">🔧 My Other Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -42,9 +41,9 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baharerol&show_icons=true&locale=en&layout=compact" alt="baharerol" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baharerol&show_icons=true&locale=en" alt="baharerol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baharerol&" alt="baharerol" /></p>
+
