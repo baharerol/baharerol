@@ -7,7 +7,7 @@
   🌱 I’m currently learning mobile application development with React Native. <br>
   🌱 I also deeply interested in enhancing my skills in .NET technologies.
 </p>
-
+<br>
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/baharerol" height="30" width="40" />
   </a>
 </p>
-
+<br>
 
 <h3 align="left">🔧 My Priority Languages and Tools:</h3>
 <p align="left"> 
@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/>
 </p>
 
-
+<br>
 <h3 align="left">🔧 My Other Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
