@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahar!</h1>
 <h3 align="center">I'm in my second year studying Software Engineering at Samsun University.</h3>
 
-
+<br>
 <h3 align="left">🕒What I am doing now:</h3>
 <p align="left"> 
   🌱 I’m currently learning mobile application development with React Native. <br>
@@ -45,7 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baharerol&show_icons=true&locale=en&layout=compact" alt="baharerol" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baharerol&show_icons=true&locale=en" alt="baharerol" /></p>
