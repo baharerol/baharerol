@@ -5,7 +5,6 @@
 <h3 align="left">🕒What I am doing now:</h3>
 <p align="left"> 
   🌱 I’m currently learning mobile application development with React Native. <br>
-  <br>
   🌱 I also deeply interested in enhancing my skills in .NET technologies.
 </p>
 <br>
