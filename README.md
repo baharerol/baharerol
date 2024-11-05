@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahar!</h1>
-<h3 align="center">I'm in my second year studying Software Engineering at Samsun University.</h3>
+<h3 align="center">I'm in my third year studying Software Engineering at Samsun University.</h3>
 
 <br>
 <h3 align="left">🕒What I am doing now:</h3>
