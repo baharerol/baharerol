@@ -4,8 +4,10 @@
 <br>
 <h3 align="left">🕒What I am doing now:</h3>
 <p align="left"> 
-  🌱 I’m currently learning mobile application development with React Native. <br>
-  🌱 I also deeply interested in enhancing my skills in .NET technologies.
+  🌱 I’m currently learning test automation with Selenium. <br>
+  🌱 I also exploring deep learning, enhancing my understanding of its concepts and applications, and studying innovative optimization techniques to improve model performance and energy efficiency.
+
+
 </p>
 <br>
 
