@@ -6,7 +6,7 @@
 <p align="left"> 
   🌱 I’m currently learning test automation with Selenium. <br>
   🌱 I also exploring deep learning, enhancing my understanding of its concepts and applications, and studying innovative optimization techniques to improve model performance and energy efficiency.
-
+  📝 I regularly write articles on [https://medium.com/@bahar_erol](https://medium.com/@bahar_erol)
 
 </p>
 <br>
@@ -18,6 +18,12 @@
   </a>
   <a href="https://www.linkedin.com/in/baharerol" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/baharerol" height="30" width="40" />
+    📄 Know about my experiences [https://drive.google.com/file/d/1jboH9QTp_5l-QhrqsFmaMVCTjBwCVRY7/view?usp=sharing](https://drive.google.com/file/d/1jboH9QTp_5l-QhrqsFmaMVCTjBwCVRY7/view?usp=sharing)
+    ### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
   </a>
 </p>
 <br>
