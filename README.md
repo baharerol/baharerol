@@ -64,13 +64,10 @@
 
 <h3 align="left">📈 Resume:</h3>
 <p>
-  <a href="https://drive.google.com/file/d/1jboH9QTp_5l-QhrqsFmaMVCTjBwCVRY7/view?usp=sharing" target="_blank">View My Resume</a>
+  <a href="https://drive.google.com/file/d/1pLz89DJRNGg9w2qIgrXL6GNsgisCifFe/view?usp=drive_link">View My Resume</a>
 </p>
 
 ---
 
-<h3 align="left">📚 Blog Posts:</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
