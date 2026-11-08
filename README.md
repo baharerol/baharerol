@@ -3,10 +3,10 @@
 
 ---
 
-<h3 align="left"> What I'm Doing Now:</h3>
+<h3 align="left"> Focus:</h3>
 <ul>
-  <li>🌱 Working on <strong>machine learning</strong> and connecting models to backend services.</li>
-  <li>🌱 Exploring deep learning and optimization techniques, including model performance and energy efficiency.</li>
+  <li> Working on <strong>machine learning</strong> and connecting models to backend services.</li>
+  <li> Exploring deep learning and optimization techniques, including model performance and energy efficiency.</li>
   <li> Actively looking for roles in machine learning / backend engineering.</li>
 </ul>
 
@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="left">📩 Connect With Me:</h3>
+<h3 align="left"> Connect With Me:</h3>
 <p align="left">
   <a href="mailto:baharerol.79@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30"/>
@@ -70,17 +70,8 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baharerol&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baharerol&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
----
-
-<h3 align="left">📈 Resume:</h3>
+<h3 align="left"> Resume:</h3>
 <p>
-  <a href="https://drive.google.com/file/d/1pLz89DJRNGg9w2qIgrXL6GNsgisCifFe/view?usp=drive_link">View My Resume</a>
+  <a href= "https://drive.google.com/file/d/1zqtA5h8fGvoqrVCxXJplkXepwSqqc2AY/view?usp=drive_link">View My Resume</a>
 </p>
