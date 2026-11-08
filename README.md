@@ -14,7 +14,7 @@
 
 <h3 align="left"> Featured Projects:</h3>
 
-- **[Green AI - Energy-Efficient Deep Learning](https://github.com/baharerol/green-ai-enerji-verimli-derin-ogrenme)** : Research on energy-efficient deep learning (TÜBİTAK 2209-A), with a live Streamlit demo.
+- **[Green AI - Energy-Efficient Deep Learning](https://github.com/baharerol/green-ai-energy-efficient-deep-learning)** : Research on energy-efficient deep learning (TÜBİTAK 2209-A), with a live Streamlit demo.
 - **[Microservice Latency Prediction](https://github.com/baharerol/microservice-latency-prediction)** : Graduation project, predicting API/microservice latency with explainable AI (SHAP).
 - **[AI-Driven Health Expenditure Prediction](https://github.com/baharerol/ai-driven-health-expenditure-prediction)** : ML model predicting health expenditure, built during my SGK internship.
 - **[Turkish Tweet Emotion Classification](https://github.com/baharerol/turkish-tweet-classification)** : NLP term project classifying emotions in Turkish tweets.
